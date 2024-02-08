@@ -9,8 +9,8 @@
     {
         
     }
-    public void AddKunde(Kunde kunde) { }
-    public void AddRechnung(Rechnung rechnung) { }
+    public void AddKunde(Kunde K) { }
+    public void AddRechnung(Rechnung R) { }
 
 }
 

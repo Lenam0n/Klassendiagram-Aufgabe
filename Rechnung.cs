@@ -12,8 +12,8 @@
     {
         
     }
-    public void AddKunde(Kunde k) { }
-    public void AddArtikel(Artikel a) { }
-    public void AddMitarbeiter(Mitarbeiter m) { }
+    public void AddKunde(Kunde K) { }
+    public void AddArtikel(Artikel A) { }
+    public void AddMitarbeiter(Mitarbeiter M) { }
 
 }

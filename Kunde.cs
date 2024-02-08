@@ -10,8 +10,8 @@
     {
         
     }
-    public void AddRechnung(Rechnung r) { }
-    public void AddMitarbeiter(Mitarbeiter m) { }
+    public void AddRechnung(Rechnung R) { }
+    public void AddMitarbeiter(Mitarbeiter M) { }
 
 
 }
